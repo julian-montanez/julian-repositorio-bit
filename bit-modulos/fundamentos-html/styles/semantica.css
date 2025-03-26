@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+/* selector etiqueta */
+
+header{
+    background-color: antiquewhite;
+    width: 80%;
+}
+
+/* selector por clases */
+
+.item-clases{
+    background-color: blue;
+    border: 3px solid black;
+}
+
+/* selector id */
+
+#item-identificador{
+    font-size: large;
+}
